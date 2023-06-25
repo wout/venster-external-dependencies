@@ -1,0 +1,36 @@
+{
+  "model-viewer": {
+    "3.1.1": {
+      "source": "ipfs://QmPXRvE4BLv647N1fbLA72VtqTp8oVPs6rGnCLFSs4VyUv",
+      "isModule": true
+    }
+  },
+  "p5": {
+    "1.5.0": {
+      "source": "ipfs://QmZSfU4GudpKLyPRBGucBeiwLynaVnM3PBLHZDnFhhLePg",
+      "isModule": false
+    },
+    "1.6.0": {
+      "source": "ipfs://QmRX1wkq3Ef6C2KnzmQYpt26vb84JsF1Fc6k6a7qrcRXdy",
+      "isModule": false
+    }
+  },
+  "processing": {
+    "1.6.6": {
+      "source": "ipfs://QmdviSmudNJKvxTxvRp4PS8uf2Yozzwekjq6UPJS37u6pK",
+      "isModule": false
+    }
+  },
+  "pts": {
+    "0.11.3": {
+      "source": "ipfs://QmNMnSB7fFUB4ukqLj7Sjk9Wogi7xUZ2zEo4YF2hyzYyUk",
+      "isModule": false
+    }
+  },
+  "three": {
+    "148": {
+      "source": "ipfs://QmNjQJiotbTmk4jGYzmMKB122aTcJWDhQ7jb17ups2K6FD",
+      "isModule": true
+    }
+  }
+}
