@@ -43,7 +43,7 @@ If you want to add a library, please open a PR with the following changes:
   - in case it's an iife variant, use `[VERSION].js` (e.g. `1.2.3.js`)
   - in case it's a module variant, use `[VERSION].module.js` (e.g. `1.2.3.module.js`)
 
-After merging the PR, we'll add the library to the list above and upload it to IPFS.
+After merging the PR, we'll upload it to IPFS and add the library to the list above.
 
 **Important**: Only `iife` or `module` variants of libraries are accepted.
 
