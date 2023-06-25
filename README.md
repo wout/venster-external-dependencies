@@ -4,7 +4,7 @@ Venster's external dependencies for on-chain, browser-based [DATs](https://docs.
 
 ## Usage
 
-Following the [DAT Metadata Standard](https://docs.venster.art/dat-metadata-standard.html), these libraries can be used as an external dependency in the renderer tokens of your collection. There's an example to load version `1.6.0` of `p5.js`:
+Following the [DAT Metadata Standard](https://docs.venster.art/dat-metadata-standard.html), these libraries can be used as an external dependency in the renderer tokens of your collection. There's an example to load version `1.6.0` of [p5.js](https://p5js.org/):
 
 ```js
 {
@@ -29,7 +29,7 @@ More information about external dependencies can be found in the [venster docs](
 | name                                                           |  version | source                                                  |  module |
 | -------------------------------------------------------------- | -------: | ------------------------------------------------------- | ------: |
 | [`p5`](https://github.com/processing/p5.js)                    |  `1.5.0` | `ipfs://QmZSfU4GudpKLyPRBGucBeiwLynaVnM3PBLHZDnFhhLePg` | `false` |
-| [`p5`](https://github.com/processing/p5.js)                    |  `1.6.0` | `ipfs://QmRX1wkq3Ef6C2KnzmQYpt26vb84JsF1Fc6k6a7qrcRXdy` | `false` |
+|                                                                |  `1.6.0` | `ipfs://QmRX1wkq3Ef6C2KnzmQYpt26vb84JsF1Fc6k6a7qrcRXdy` | `false` |
 | [`processing`](https://github.com/processing-js/processing-js) |  `1.6.6` | `ipfs://QmdviSmudNJKvxTxvRp4PS8uf2Yozzwekjq6UPJS37u6pK` | `false` |
 | [`pts`](https://github.com/williamngan/pts)                    | `0.11.3` | `ipfs://QmNMnSB7fFUB4ukqLj7Sjk9Wogi7xUZ2zEo4YF2hyzYyUk` | `false` |
 | [`three`](https://github.com/mrdoob/three.js/)                 |    `148` | `ipfs://QmNjQJiotbTmk4jGYzmMKB122aTcJWDhQ7jb17ups2K6FD` |  `true` |
