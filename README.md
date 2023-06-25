@@ -26,13 +26,13 @@ More information about external dependencies can be found in the [venster docs](
 
 ## Available libraries
 
-| library           | name         |  version | source                                                  |  module |
-| ----------------- | ------------ | -------: | ------------------------------------------------------- | ------: |
-| **p5.js**         | `p5`         |  `1.5.0` | `ipfs://QmZSfU4GudpKLyPRBGucBeiwLynaVnM3PBLHZDnFhhLePg` | `false` |
-|                   | `p5`         |  `1.6.0` | `ipfs://QmRX1wkq3Ef6C2KnzmQYpt26vb84JsF1Fc6k6a7qrcRXdy` | `false` |
-| **processing.js** | `processing` |  `1.6.6` | `ipfs://QmdviSmudNJKvxTxvRp4PS8uf2Yozzwekjq6UPJS37u6pK` | `false` |
-| **pts.js**        | `pts`        | `0.11.3` | `ipfs://QmdviSmudNJKvxTxvRp4PS8uf2Yozzwekjq6UPJS37u6pK` | `false` |
-| **three.js**      | `three`      |    `148` | `ipfs://QmNjQJiotbTmk4jGYzmMKB122aTcJWDhQ7jb17ups2K6FD` |  `true` |
+| name         |  version | source                                                  |  module |
+| ------------ | -------: | ------------------------------------------------------- | ------: |
+| `p5`         |  `1.5.0` | `ipfs://QmZSfU4GudpKLyPRBGucBeiwLynaVnM3PBLHZDnFhhLePg` | `false` |
+| `p5`         |  `1.6.0` | `ipfs://QmRX1wkq3Ef6C2KnzmQYpt26vb84JsF1Fc6k6a7qrcRXdy` | `false` |
+| `processing` |  `1.6.6` | `ipfs://QmdviSmudNJKvxTxvRp4PS8uf2Yozzwekjq6UPJS37u6pK` | `false` |
+| `pts`        | `0.11.3` | `ipfs://QmdviSmudNJKvxTxvRp4PS8uf2Yozzwekjq6UPJS37u6pK` | `false` |
+| `three`      |    `148` | `ipfs://QmNjQJiotbTmk4jGYzmMKB122aTcJWDhQ7jb17ups2K6FD` |  `true` |
 
 ## Missing a library?
 
