@@ -26,13 +26,13 @@ More information about external dependencies can be found in the [venster docs](
 
 ## Available libraries
 
-| name         |  version | source                                                  |  module |
-| ------------ | -------: | ------------------------------------------------------- | ------: |
-| `p5`         |  `1.5.0` | `ipfs://QmZSfU4GudpKLyPRBGucBeiwLynaVnM3PBLHZDnFhhLePg` | `false` |
-| `p5`         |  `1.6.0` | `ipfs://QmRX1wkq3Ef6C2KnzmQYpt26vb84JsF1Fc6k6a7qrcRXdy` | `false` |
-| `processing` |  `1.6.6` | `ipfs://QmdviSmudNJKvxTxvRp4PS8uf2Yozzwekjq6UPJS37u6pK` | `false` |
-| `pts`        | `0.11.3` | `ipfs://QmdviSmudNJKvxTxvRp4PS8uf2Yozzwekjq6UPJS37u6pK` | `false` |
-| `three`      |    `148` | `ipfs://QmNjQJiotbTmk4jGYzmMKB122aTcJWDhQ7jb17ups2K6FD` |  `true` |
+| name                                                           |  version | source                                                  |  module |
+| -------------------------------------------------------------- | -------: | ------------------------------------------------------- | ------: |
+| [`p5`](https://github.com/processing/p5.js)                    |  `1.5.0` | `ipfs://QmZSfU4GudpKLyPRBGucBeiwLynaVnM3PBLHZDnFhhLePg` | `false` |
+| [`p5`](https://github.com/processing/p5.js)                    |  `1.6.0` | `ipfs://QmRX1wkq3Ef6C2KnzmQYpt26vb84JsF1Fc6k6a7qrcRXdy` | `false` |
+| [`processing`](https://github.com/processing-js/processing-js) |  `1.6.6` | `ipfs://QmdviSmudNJKvxTxvRp4PS8uf2Yozzwekjq6UPJS37u6pK` | `false` |
+| [`pts`](https://github.com/williamngan/pts)                    | `0.11.3` | `ipfs://QmNMnSB7fFUB4ukqLj7Sjk9Wogi7xUZ2zEo4YF2hyzYyUk` | `false` |
+| [`three`](https://github.com/mrdoob/three.js/)                 |    `148` | `ipfs://QmNjQJiotbTmk4jGYzmMKB122aTcJWDhQ7jb17ups2K6FD` |  `true` |
 
 ## Missing a library?
 
