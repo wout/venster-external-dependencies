@@ -39,9 +39,11 @@ More information about external dependencies can be found in the [venster docs](
 If you want to add a library, please open a PR with the following changes:
 
 - add a folder in `libs` with the name of your library, without the .js extension
-- add the minified version of the library with the version number as the name (e.g. `1.2.3.js`)
+- add the minified version of the library with the name formatted as follows:
+  - in case it's an iife variant, use `[VERSION].js` (e.g. `1.2.3.js`)
+  - in case it's a module variant, use `[VERSION].module.js` (e.g. `1.2.3.module.js`)
 
-We'll then add the library to the list above and upload it to IPFS.
+After merging the PR, we'll add the library to the list above and upload it to IPFS.
 
 **Important**: Only `iife` or `module` variants of libraries are accepted.
 
