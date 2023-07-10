@@ -4,7 +4,7 @@ Venster's external dependencies for on-chain, browser-based [DATs](https://docs.
 
 ## Usage
 
-Following the [DAT Metadata Standard](https://docs.venster.art/dat-metadata-standard.html), these libraries can be used as an external dependency in the renderer tokens of your collection. There's an example to load version `1.6.0` of [p5.js](https://p5js.org/):
+Following the [DAT Metadata Standard](https://docs.venster.art/dat-metadata-standard.html), these libraries can be used as an external dependency in the renderer tokens of your collection. Here's an example to load version `1.6.0` of [p5.js](https://p5js.org/):
 
 ```js
 {
